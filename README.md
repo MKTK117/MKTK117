@@ -16,29 +16,9 @@ What I'm currently learning: a Node.js.
 
 💼 Technical Skills
 Languages:
-Frontend:
+Frontend: HTML5 CSS3 Bootstrap React Jekyll JavaScript
 
-HTML5 CSS3 Bootstrap React Jekyll JavaScript
-
-Backend:
-
-Python sectionJavaJava NodeJS Express.js SQL
-
-Frameworks:
-
-Flask springboot
-
-Libraries:
-
-Jinja EJS mongoose
-
-Databases:
-
-MySQL Badge MongoDB Badge
-
-IDEs/Editors:
-
-InteliJ Visual Studio Code eclipse Atom Postman Jupyter Notebook Spring
+IDEs/Editors: Visual Studio Code 
 
 
 
