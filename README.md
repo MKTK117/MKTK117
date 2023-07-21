@@ -15,6 +15,7 @@ What I'm currently working on: Frontend part of Shopify project.
 What I'm currently learning: a Node.js.
 
 💼 Technical Skills
+<br>
 Languages:
 Frontend: HTML5 CSS3 Bootstrap React Jekyll JavaScript
 
