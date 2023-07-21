@@ -11,8 +11,8 @@
 
 What I'm doing right now:
 <br/><br/>
-Currently working on: Frontend part of Shopify project.
-Currently learning: a Node.js.
+Currently working on: Frontend part of Shopify project.<br/>
+Currently learning: a Node.js.<br/>
 
 
 
