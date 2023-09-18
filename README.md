@@ -11,7 +11,7 @@
 
 What I'm doing right now:
 <br/><br/>
-Currently working on: ReactNative pet-project.<br/>
+Currently working on: React Native pet-project.<br/>
 Currently learning: Node.js.<br/>
 
 
