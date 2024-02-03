@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-My name is Mark, and I'm a passionate developer who loves to learn and solve tasks. I consider myself a geek with a perfect sense of humor. I'm a Halo fan, and you might find a little Master Chief icon hidden somewhere in my code. 😄
+My name is Mark, and I'm a passionate developer who loves to learn and solve tasks. I consider myself a geek with a perfect sense of humor.
 
 ## Tech Stack 🛠️
 
@@ -23,7 +23,7 @@ My name is Mark, and I'm a passionate developer who loves to learn and solve tas
 
 ## About Me 💼
 
-I'm always on the lookout for new challenges, and I love coding aviation and games. Whether it's building web or mobile applications, I'm dedicated to creating elegant solutions. You might catch some Halo references and a hidden Master Chief icon in my projects.
+I'm always on the lookout for new challenges. Whether it's building web or mobile applications, I'm dedicated to creating elegant solutions.
 
 ## Fun Facts 🚀
 
@@ -34,7 +34,7 @@ I'm always on the lookout for new challenges, and I love coding aviation and gam
 
 ## Get in Touch 📫
 
-Feel free to connect with me on [LinkedIn](Your LinkedIn Profile Link) or follow me on [Twitter](Your Twitter Profile Link). Let's collaborate and build something amazing together!
+Feel free to connect with me on www.linkedin.com/in/mktk117 . Let's collaborate and build something amazing together!
 
 Happy coding! 👩‍💻🚀
 
