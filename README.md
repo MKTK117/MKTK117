@@ -32,6 +32,9 @@ My name is Mark, and I'm a passionate developer who loves to learn and solve tas
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![trpc](https://img.shields.io/badge/trpc-2C8EBB?style=for-the-badge&logo=trpc&logoColor=white)
+
 
 
 
