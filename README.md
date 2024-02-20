@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-My name is Mark, and I'm a passionate developer who loves to learn and solve tasks. I consider myself a geek with a perfect sense of humor.
+My name is Mark, and I'm a passionate developer who loves to learn and solve tasks.
 
 ## Tech Stack 🛠️
 
