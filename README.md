@@ -1,5 +1,9 @@
 # MKTK117_Status:OPERATIONAL
 
+<p align="center">
+<img src="resources/halo.webp" alt="gif" style="zoom:200%;" />
+</p>
+
 # Hi there! 👋
 
 My name is Mark, and I'm a passionate developer who loves to learn and solve tasks.
@@ -54,13 +58,10 @@ I'm always on the lookout for new challenges. Whether it's building web or mobil
 
 ## Get in Touch 📫
 
-Feel free to connect with me on www.linkedin.com/in/mktk117 . Let's collaborate and build something amazing together!
+Feel free to connect with me on www.linkedin.com/in/mktk117. Let's collaborate and build something amazing together!👩‍💻🚀
 
-Happy coding! 👩‍💻🚀
-
-
-
-
-
-
-
+<p align="center">
+  <img src="resources/monkey.webp" alt="gif" style="zoom:150%;" />
+  <br>
+  Happy coding!
+</p>
